@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['animal', 'brick', 'figure', 'hand']
+
+roboflow:
+  workspace: legodetection-foltt
+  project: lego-detection-sih8y
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/legodetection-foltt/lego-detection-sih8y/dataset/1
