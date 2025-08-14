@@ -22,7 +22,7 @@ LEGO-Detection/
 │   │   ├── val2/                  # Second validation results
 │   │   └── val3/                  # Third validation results
 ├── venv/                          # Python virtual environment
-└── requirements.txt               # Python dependencies
+└── README.md                      
 ```
 
 ### Folder Details
