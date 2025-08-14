@@ -14,6 +14,7 @@ LEGO-Detection/
 ├── lego_dataset/                  # Dataset folder
 │   ├── train/                     # Training images and labels
 │   ├── valid/                     # Validation images and labels
+│   ├── test/                     # Testing images
 │   └── labels.cache               # Cached label info for fast validation
 ├── runs/                          # Stores training and validation outputs
 │   ├── detect/                    # Detection results
